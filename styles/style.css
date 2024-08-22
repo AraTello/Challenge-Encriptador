@@ -195,6 +195,7 @@ body{
     .contenido__encriptador{
         font-size: larger;
         flex-direction: column;
+        padding-bottom: 50px;
     }
 
     /* div izquierdo principal -- input */
@@ -301,6 +302,7 @@ body{
     .footer{
         position: relative;
         width: auto;
+        font-size: small;
     }
 
 }
